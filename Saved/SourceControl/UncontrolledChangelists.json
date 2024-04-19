@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajo20/Documents/GitHub/SuperRacist2.1/Content/Skladova_Vchod.umap",
+				"C:/Users/ajo20/Documents/GitHub/SuperRacist2.1/Content/Music/Music_Loop.uasset",
+				"C:/Users/ajo20/Documents/GitHub/SuperRacist2.1/Content/Music/Super_Racist_2_music_track_01.uasset",
+				"C:/Users/ajo20/Documents/GitHub/SuperRacist2.1/Content/Music/Super_Racist_2_music_track_02.uasset",
 				"C:/Users/Notebook/Documents/GitHub/SuperRacist2.1/Content/Megascans/Surfaces/Asphalt_Sleet_vcriedl/MI_Asphalt_Sleet_vcriedl_1K.uasset",
 				"C:/Users/Notebook/Documents/GitHub/SuperRacist2.1/Content/Megascans/Surfaces/Metal_Sheet_uhwnbcqew/MI_Metal_Sheet_uhwnbcqew_1K.uasset",
 				"C:/Users/Notebook/Documents/GitHub/SuperRacist2.1/Content/Megascans/Surfaces/Metal_Sheet_uhwnbcqew/T_MetalSheet_uhwnbcqew_1K_ORDp.uasset",
@@ -52,7 +56,6 @@
 				"C:/Users/Notebook/Documents/GitHub/SuperRacist2.1/Content/Material_001.uasset",
 				"C:/Users/Notebook/Documents/GitHub/SuperRacist2.1/Content/Material_002.uasset",
 				"C:/Users/Notebook/Documents/GitHub/SuperRacist2.1/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
-				"C:/Users/ajo20/Documents/GitHub/SuperRacist2.1/Content/Skladova_Vchod.umap",
 				"C:/Users/Ondrej/Documents/Unreal Projects/SuperRacist2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Ondrej/Documents/Unreal Projects/SuperRacist2/Content/RacingGame/Framework/GM_RacingGame.uasset",
 				"C:/Users/Ondrej/Documents/Unreal Projects/SuperRacist2/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
